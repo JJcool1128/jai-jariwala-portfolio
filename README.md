@@ -1,2 +1,2 @@
-# JaiJariwala-Portfolio
+# jai-jariwala-portfolio
 My Portfolio Website

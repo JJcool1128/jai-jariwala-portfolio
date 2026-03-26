@@ -36,13 +36,21 @@ export default function Footer() {
               flexWrap: "wrap",
             }}
           >
-            <a href="https://github.com/JJcool1128" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/JJcool1128"
+              target="_blank"
+              rel="noreferrer"
+            >
               GitHub
             </a>
-            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.linkedin.com/in/jaijariwala/"
+              target="_blank"
+              rel="noreferrer"
+            >
               LinkedIn
             </a>
-            <a href="mailto:your-email@example.com">Email</a>
+            <a href="mailto:jai.jariwala@icloud.com">Email</a>
           </div>
         </div>
       </footer>

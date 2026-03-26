@@ -7,7 +7,7 @@ export default function AboutPage() {
           padding: "5rem 1.5rem 6rem",
         }}
       >
-        <section style={{ maxWidth: "760px" }}>
+        <section style={{ maxWidth: "780px" }}>
           <p
             style={{
               margin: "0 0 1rem",
@@ -28,7 +28,7 @@ export default function AboutPage() {
               letterSpacing: "-0.05em",
             }}
           >
-            Engineer, builder, and lifelong robotics enthusiast.
+            Lifelong robotics enthusiast with a passion for building things that matter.
           </h1>
   
           <p
@@ -39,10 +39,10 @@ export default function AboutPage() {
               color: "var(--muted)",
             }}
           >
-            I am passionate about robotics, automation, and problem solving across
-            both hardware and software. My interests come from a long-standing
-            fascination with building systems that move, interact, and make a real
-            impact in the world.
+            I am a robotics engineer who has been drawn to building from a young
+            age. What started with Lego projects and early robotics experiences
+            grew into a long-term passion for creating systems that move,
+            interact, and solve meaningful real-world problems.
           </p>
   
           <p
@@ -52,11 +52,12 @@ export default function AboutPage() {
               color: "var(--muted)",
             }}
           >
-            Over time, that interest has grown into hands-on experience with
-            robotics projects, software development, embedded work, and technical
-            problem solving. I enjoy learning deeply, building creatively, and
-            approaching challenges with curiosity, persistence, and a strong
-            systems mindset.
+            Since then, I have continued building across robotics, software, and
+            electromechanical systems. My experiences have ranged from competitive
+            robotics and international achievement to developing end-to-end
+            robotic systems and working on the integration between hardware and
+            software. I enjoy solving difficult problems, learning deeply, and
+            creating systems that are both technically strong and human-centered.
           </p>
         </section>
       </main>

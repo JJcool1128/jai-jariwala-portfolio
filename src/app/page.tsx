@@ -213,10 +213,7 @@ export default function Home() {
 
         <div
           style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 140px",
-            gap: "1rem",
-            alignItems: "start",
+            display: "block",
           }}
         >
           <div className="timeline-grid">
@@ -262,19 +259,6 @@ export default function Home() {
               );
             })}
           </div>
-          <aside className="timeline-year-rail">
-            <div className="timeline-year-line">
-              <div className="timeline-year-mark" style={{ top: "8%" }}>
-                <span>2015</span>
-              </div>
-              <div className="timeline-year-mark" style={{ top: "48%" }}>
-                <span>2020</span>
-              </div>
-              <div className="timeline-year-mark" style={{ top: "88%" }}>
-                <span>2025</span>
-              </div>
-            </div>
-          </aside>
         </div>
       </section>
     </main>
